@@ -1,3 +1,9 @@
+HTML
+
+
+
+CSS
+
 body
 {
     background: rgb(36, 36, 36);
@@ -40,7 +46,7 @@ body
 }
 #container h1
 {
-    font-size: 70px;
+    font-size: 20px;
 }
 #post
 {
@@ -48,4 +54,11 @@ body
     background: white;
     text-align: center;
     font-size: 70px;
+}
+#footer
+{
+    background: rgb(21, 90, 0);
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
